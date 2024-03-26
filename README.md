@@ -5,10 +5,10 @@
 - 📫 How to reach me: y254tian@uwaterloo.ca / henrytian233@hotmail.com
 ## Skills
 ##### Programming 
-###### C++, JavaScript, Python, Java, C, TypeScript, HTML, CSS, SQL, R  
+###### Java, C++, Golang, JavaScript, Python, TypeScript, C, Swift, HTML, CSS, SQL, R
 ##### Python Libraries 
 ###### Scipy, Numpy, Pandas, Matplotlib, Scikit, PyTorch, Pyspark  
 ##### Frameworks  
-###### Node.js, React, Spring Boot, Next.js, Express.js, Jest, JUnit  
+###### Spring Boot, React, Next.js, Nest.js, Node.js, Express.js, Django, Jest, JUnit
 ##### Database  
-###### MySQL, MongoDB  
+###### MySQL, PostgreSQL, MongoDB, Redis
